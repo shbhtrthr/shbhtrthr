@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shobhit kumar
 - 👀 I’m interested in Software Engineering Roles
 - 🌱 I’m currently learning Spring Boot
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin:/shobhitkrathore
 
 <!---
